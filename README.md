@@ -1,5 +1,6 @@
 # Stocks vs Index Funds
 Summary
+
 A python based code that opens in Streamlit and shows stock volume, rates of return, and other useful information about stocks vs index funds.
 
 Requirements
