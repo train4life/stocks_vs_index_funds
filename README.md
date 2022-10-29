@@ -19,7 +19,7 @@ The python file will be uploaded to your machine under your file name. Upload th
 
 Once you are on Streamlit you will view the different values for the stocks and funds and be able to choose between different stocks and funds to see the return rate between the funds. Finally, you will view a volume histogram to see the differences between the volumes.
 
-URL: (https://sprint-4-stocks-index-funds.onrender.com)
+URL: (https://sprint-4-stocks-index-funds.onrender.com/)
 
 Upgrades in the Works
 
